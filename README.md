@@ -57,7 +57,7 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  ![GitHub Snake Dark Mode](https://github.com/chee86j/chee86j/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![GitHub Contribution Grid Snake animation](https://github.com/chee86j/chee86j/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
