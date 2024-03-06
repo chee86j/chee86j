@@ -12,7 +12,8 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Generate Snake Game
-        uses: Platane/snk@master
+        uses: Platane/snk/svg-only@v2
         with:
           github_user_name: chee86j
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
