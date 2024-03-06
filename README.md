@@ -49,7 +49,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=postgresql,express,react,nodejs,bootstrap,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=mongodb,redux,javascript,typescript,nextjs,python,flask,prisma,sqlite,sequelize,less" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,redux,javascript,typescript,nextjs,python,flask,prisma,sqlite,sequelize,less,postman" /><br>
 </div>
 
 <br/>
