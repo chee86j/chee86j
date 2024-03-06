@@ -1,20 +1,26 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=chee86j&label=Visitors&color=0e75b6&style=flat" alt="chee86j" /> </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Jeffrey+Chee!+;A+New+York+City+native+with+over+a+decade+of+experience+in+Property+Management+&+Development;Now+passionately+forging+a+path+as+a+Full+Stack+Developer" />
-</h1>
-
-
-<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jeffrey+Chee!;" />
 </h1>
 
-<h3 align="center">
-    <p>A New York City native with over a decade of experience in Property Management & Development, now passionately forging a path as a Full Stack Developer.</p>
-</h3>
+<h2 align="center">
+  <i>A Versatile Full Stack Developer</i>
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NYC%20Native-0077B5?style=flat&logo=location&logoColor=white" alt="NYC Native"/>
+  <img src="https://img.shields.io/badge/12+%20Yrs%20in%20Property%20Management-fff888?style=flat" alt="12+ Years in Property Management"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-5646D2?style=flat&logo=developer&logoColor=white" alt="Full Stack Developer"/>
+</p>
+
+<p align="center">
+  <em>Blending over a decade of property management experience with cutting-edge tech skills.</em>
+</p>
 
 
 <br/>
+
 
 <div align="center">
   
