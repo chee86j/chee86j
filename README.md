@@ -1,13 +1,18 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=chee86j&label=Visitors&color=0e75b6&style=flat" alt="chee86j" /> </p>
 
 <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Jeffrey+Chee!+;A+New+York+City+native+with+over+a+decade+of+experience+in+Property+Management+&+Development;Now+passionately+forging+a+path+as+a+Full+Stack+Developer" />
+</h1>
+
+
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jeffrey+Chee!;" />
 </h1>
 
 <h3 align="center">
-    <p>I have been in Property Management & Development for Over a Decade<p/>
-      <p>and am a Full Stack Developer born and raised in New York City!</p>
+    <p>A New York City native with over a decade of experience in Property Management & Development, now passionately forging a path as a Full Stack Developer.</p>
 </h3>
+
 
 <br/>
 
