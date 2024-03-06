@@ -5,8 +5,8 @@
 </h1>
 
 <h3 align="center">
-    <p>I have been in Property Management & Dev for Over a Decade<p/>
-      <p>and am a Full Stack Developer from New York City!</p>
+    <p>I have been in Property Management & Development for Over a Decade<p/>
+      <p>and am a Full Stack Developer born and raised in New York City!</p>
 </h3>
 
 <br/>
@@ -48,11 +48,21 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=postgresql,express,react,nodejs,bootstrap,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=mongodb,redux,javascript,typescript,nextjs,python,flask,prisma,sqlite,sequelize,less,postman,npm" /><br>
+    <img src="https://skillicons.dev/icons?i=postgresql,express,react,nodejs,bootstrap,html,css,vscode,github,tailwind,git,npm" />
+    <img src="https://skillicons.dev/icons?i=mongodb,redux,javascript,typescript,nextjs,python,flask,prisma,sqlite,sequelize,less,postman" /><br>
 </div>
 
 <br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/chee86j/chee86j/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -65,6 +75,10 @@
 </div>
 
 <br/><br/>
+
+<hr/>
+
+<br/>
 
 
 
