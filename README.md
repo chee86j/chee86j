@@ -57,7 +57,8 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-![GitHub Contribution Grid Snake animation](https://github.com/chee86j/chee86j/blob/output/github-contribution-grid-snake.svg)
+  ![GitHub Contribution Grid Snake](https://github.com/chee86j/chee86j/blob/main/dist/github-contribution-grid-snake.svg)
+
 
 </div>
 
