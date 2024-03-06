@@ -1,26 +1,21 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
 name: Generate Snake
 
-# Controls when the action will run.
 on:
   schedule:
-      # every 12 hours
     - cron: "0 */12 * * *"
-
-  # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
-  
-  # Also run on every push on the master branch
   push:
     branches:
-    - main
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
+      # Generate standard snake game
       - uses: Platane/snk@master
         with:
           github_user_name: chee86j
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-snake.svg
