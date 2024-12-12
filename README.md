@@ -26,7 +26,7 @@
   
 🔭 I’m currently working on [Prop Pilot a REIT Management & Investment App](https//github.com/chee86j/prop_pilot)
 
-🌱 I’m currently learning **TypeScript, Next.js, Python, MongoDB**
+🌱My current hobbies are **C#, TypeScript, Next.js, Python, MongoDB**
 
 👯 I’m looking to collaborate on **PERN Stack or any Tech that I'm learning projects**
 
@@ -36,7 +36,7 @@
 
 💬 Ask me about **PostgreSQL, Express.js, React.js, Node.js**
 
-📄 View My Master CV [Resume](https://drive.google.com/file/d/1Dtp5oxi1JjFZlMvSk4v4TBZEenvP0RWb/view?usp=sharing)
+📄 View My Master CV [Resume]([https://drive.google.com/file/d/1Dtp5oxi1JjFZlMvSk4v4TBZEenvP0RWb/view?usp=sharing](https://drive.google.com/uc?export=download&id=14UUNjWLHVk4dkfW5OhpAzaw8Gep7_7YC))
 
 ⚡ Fun fact **I love Woodworking, Powerlifting, and practicing a wide range of Martial Arts**
 
@@ -60,7 +60,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=postgresql,express,react,nodejs,bootstrap,html,css,vscode,github,tailwind,git,npm" />
-    <img src="https://skillicons.dev/icons?i=mongodb,redux,javascript,typescript,nextjs,python,flask,prisma,sqlite,sequelize,less,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,redux,javascript,typescript,csharp,nextjs,python,flask,prisma,sqlite,sequelize,less,postman" /><br>
 </div>
 
 <br/>
