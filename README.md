@@ -24,7 +24,7 @@
 
 <div align="center">
   
-🔭 I’m currently working on [Prop Pilot a REIT Management & Investment App](https//github.com/chee86j/prop_pilot)
+🔭 I’m currently working on [Prop Pilot a REIT Management & Investment App](https://github.com/chee86j/prop_pilot)
 
 🌱My current hobbies are **C#, TypeScript, Next.js, Python, MongoDB**
 
