@@ -59,8 +59,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=postgres,express,react,nodejs,bootstrap,html,css,vscode,github,tailwind,git,npm,vite,selenium" />
-    <img src="https://skillicons.dev/icons?i=mongodb,redux,javascript,typescript,cs,dotnet,azure,powershell,nextjs,py,flask,prisma,sqlite,sequelize,less,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=postgres,express,react,nodejs,bootstrap,html,css,vscode,github,tailwind,git,npm,vite,selenium,dotnet,azure" />
+    <img src="https://skillicons.dev/icons?i=mongodb,redux,javascript,typescript,cs,powershell,nextjs,py,flask,prisma,sqlite,sequelize,less,postman" /><br>
 </div>
 
 <br/>
