@@ -36,7 +36,7 @@
 
 💬 Ask me about **PostgreSQL, Express.js, React.js, Node.js**
 
-📄 View My Master CV [Resume]([https://drive.google.com/file/d/1Dtp5oxi1JjFZlMvSk4v4TBZEenvP0RWb/view?usp=sharing](https://drive.google.com/uc?export=download&id=14UUNjWLHVk4dkfW5OhpAzaw8Gep7_7YC))
+📄 View My Master CV [Resume](https://drive.google.com/uc?export=download&id=14UUNjWLHVk4dkfW5OhpAzaw8Gep7_7YC)
 
 ⚡ Fun fact **I love Woodworking, Powerlifting, and practicing a wide range of Martial Arts**
 
