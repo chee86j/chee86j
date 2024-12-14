@@ -26,7 +26,7 @@
   
 🔭 I’m currently working on [Prop Pilot a REIT Management & Investment App](https://github.com/chee86j/prop_pilot)
 
-🌱My current hobbies are **C#, TypeScript, Next.js, Python, MongoDB**
+🌱My current Interests are **C#, TypeScript, Next.js, Python, MongoDB**
 
 👯 I’m looking to collaborate on **PERN Stack or any Tech that I'm learning projects**
 
