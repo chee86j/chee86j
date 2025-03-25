@@ -28,7 +28,7 @@
 
 🌱My current Interests are **C#, TypeScript, Next.js, Python, MongoDB**
 
-👯 I’m looking to collaborate on **PERN Stack or any Tech that I'm learning projects**
+👯 I’m looking to collaborate on **PERN / MERN Stack or any Tech that I'm learning projects**
 
 <br/>
 
@@ -38,7 +38,7 @@
 
 📄 View My Master CV [Resume](https://drive.google.com/uc?export=download&id=14UUNjWLHVk4dkfW5OhpAzaw8Gep7_7YC)
 
-⚡ Fun fact **I love Woodworking, Powerlifting, and practicing a wide range of Martial Arts**
+⚡ Fun fact **I occassionaly like Woodworking, Powerlifting, and practicing a wide range of Martial Arts**
 
 </div>
 
