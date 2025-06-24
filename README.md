@@ -38,7 +38,7 @@
 
 📄 View My Master CV [Resume](https://drive.google.com/uc?export=download&id=14UUNjWLHVk4dkfW5OhpAzaw8Gep7_7YC)
 
-⚡ Fun fact **I occassionaly like Woodworking, Powerlifting, and practicing a wide range of Martial Arts. That's what I would like to say, but now as a new father I just try to spend time and exercise 15 minutes a day.**
+⚡ Fun fact **I used to enjoy woodworking, powerlifting, and training in various martial arts. These days—as a new dad—I consider it a win if I get 15 uninterrupted minutes of exercise and remember where I left my coffee.**
 
 </div>
 
