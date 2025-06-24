@@ -26,7 +26,7 @@
   
 🔭 I’m currently working on [Prop Pilot a REIT Management & Investment App](https://github.com/chee86j/prop_pilot)
 
-🌱My current Interests are **C#, TypeScript, Next.js, Python, MongoDB**
+🌱My current Interests are **AI with LLMs/ML, TypeScript, Next.js, Python, MongoDB, Docker**
 
 👯 I’m looking to collaborate on **PERN / MERN Stack or any Tech that I'm learning projects**
 
@@ -34,11 +34,11 @@
 
 👨‍💻 All of my projects are available at Github or at my [Portfolio Site](https://jeffchee-port.onrender.com/)
 
-💬 Ask me about **PostgreSQL, Express.js, React.js, Node.js**
+💬 Ask me about **PostgreSQL, Express.js, React.js, Node.js, Next.js, Tailwind CSS**
 
 📄 View My Master CV [Resume](https://drive.google.com/uc?export=download&id=14UUNjWLHVk4dkfW5OhpAzaw8Gep7_7YC)
 
-⚡ Fun fact **I occassionaly like Woodworking, Powerlifting, and practicing a wide range of Martial Arts**
+⚡ Fun fact **I occassionaly like Woodworking, Powerlifting, and practicing a wide range of Martial Arts. That's what I would like to say, but now as a new father I just try to spend time and exercise 15 minutes a day.**
 
 </div>
 
