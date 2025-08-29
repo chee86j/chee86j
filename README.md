@@ -66,10 +66,12 @@
 <br/>
 <hr/>
 
+/*
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img src="https://github.com/chee86j/chee86j/blob/main/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="GitHub Contribution Grid Snake"/>
 </div>
+*/
 
 <hr/>
 
