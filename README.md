@@ -26,19 +26,19 @@
   
 I’m currently working on [Prop Pilot a REIT Management & Investment App](https://github.com/chee86j/prop_pilot)
 
-My current Interests are **AI with LLMs/ML, TypeScript, Next.js, Python, MongoDB, Docker**
+My current Interests are **LLMs using Ollama, integrating RAG pipelines with Vector Dbs such as Pinecone.io, ChromaDB, and PyVector. This setup allows me to experiment with semantic search, context-aware responses, and scalable knowledge retrieval. Deepening my understanding of the mathematical foundations behind machine learning, particularly Linear Algebra, which is essential for grasping concepts like Embeddings, Matrix Operations, and optimization in Neural Networks.**
 
-I’m looking to collaborate on **PERN / MERN Stack or any Tech that I'm learning projects**
+I’m looking to collaborate on **TS/JS/Python Projects**
 
 <br/>
 
 All of my projects are available at Github or at my [Portfolio Site](https://jeffchee-port.onrender.com/)
 
-Ask me about **PostgreSQL, Express.js, React.js, Node.js, Next.js, Tailwind CSS**
+Ask me about **AI, PostgreSQL, Express.js, React.js, Node.js, Next.js, Tailwind CSS**
 
 View My Master CV [Resume](https://drive.google.com/uc?export=download&id=14UUNjWLHVk4dkfW5OhpAzaw8Gep7_7YC)
 
-Fun fact **I used to enjoy woodworking, powerlifting, and training in various martial arts. These days—as a new dad—I consider it a win if I get 15 uninterrupted minutes of exercise and remember where I left my coffee.**
+Fun fact **I used to enjoy woodworking, powerlifting, and training in martial arts. These days—as a new dad—I consider it a win if I get 15 uninterrupted minutes of exercise and remember where I left my coffee.**
 
 </div>
 
@@ -59,9 +59,12 @@ Fun fact **I used to enjoy woodworking, powerlifting, and training in various ma
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=postgres,express,react,nodejs,bootstrap,html,css,vscode,github,tailwind,git,npm,selenium,dotnet,azure" />
-    <img src="https://skillicons.dev/icons?i=mongodb,redux,javascript,typescript,cs,powershell,nextjs,py,flask,prisma,sqlite,sequelize,less,postman" /><br>
+  <!-- Core stack, IDEs, DevOps, cloud -->
+  <img src="https://skillicons.dev/icons?i=postgres,express,react,nodejs,bootstrap,html,css,vscode,visualstudio,github,tailwind,git,npm,docker,selenium,dotnet,azure,stackoverflow" />
+  <!-- Languages, frameworks, data layer, testing, AI -->
+  <img src="https://skillicons.dev/icons?i=mongodb,redux,javascript,typescript,cs,powershell,nextjs,py,flask,fastapi,prisma,sqlite,sequelize,less,postman,jest,openai" /><br>
 </div>
+
 
 <br/>
 <hr/>
