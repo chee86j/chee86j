@@ -26,7 +26,7 @@
   
 I’m currently working on [Prop Pilot a REIT Management & Investment App](https://github.com/chee86j/prop_pilot)
 
-My current Interests are **LLMs using Ollama, integrating RAG pipelines with Vector Dbs such as Pinecone.io, ChromaDB, and PyVector. This setup allows me to experiment with semantic search, context-aware responses, and scalable knowledge retrieval. Deepening my understanding of the mathematical foundations behind machine learning, particularly Linear Algebra, which is essential for grasping concepts like Embeddings, Matrix Operations, and optimization in Neural Networks.**
+My current Interests are **LLMs using Ollama, integrating RAG pipelines with Vector Dbs such as Pinecone.io, ChromaDB, and PyVector. This setup allows me to experiment with semantic search, context-aware responses, and scalable knowledge retrieval. Deepening my understanding of the mathematical foundations behind machine learning, particularly Linear Algebra**
 
 I’m looking to collaborate on **TS/JS/Python Projects**
 
