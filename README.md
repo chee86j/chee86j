@@ -84,10 +84,8 @@ Fun fact **I used to enjoy woodworking, powerlifting, and training in martial ar
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chee86j&theme=dark" alt="chee86j" />
   <img src="https://github-readme-stats.vercel.app/api?username=chee86j&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chee86j&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-    
  <p align="left">
-  <img src="https://github-profile-trophy-gamma-woad.vercel.app/?username=chee86j&theme=chalk&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&v=1" height="150" alt="trophy graph" />
-
+  <img src="https://github-profile-trophy-gamma-woad.vercel.app/?username=chee86j&theme=chalk&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
 </p>
 
 </div>
