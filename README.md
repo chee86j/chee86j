@@ -33,7 +33,7 @@ I’m looking to collaborate on **TS/JS/Python Projects**
 <br/>
 
 All of my projects are available at Github or at my [Portfolio Site](https://jeffchee-port.onrender.com/)
-But here is my latest project [ClanCrest Site](clancrest-frontend-production.up.railway.app)
+But here is my latest project [ClanCrest Site](https://clancrest-frontend-production.up.railway.app)
 
 Ask me about **AI, PostgreSQL, Express.js, React.js, Node.js, Next.js, Tailwind CSS**
 
