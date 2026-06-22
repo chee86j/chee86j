@@ -110,7 +110,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,redux,javascript,typescript,cs,powershell,nextjs,py,flask,fastapi,prisma,sqlite,sequelize,less,postman,jest,openai" alt="Languages, frameworks, data layer, testing, and AI tools" />
 </div>
 
-<br/>
+<!-- <br/>
 <hr/>
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
@@ -126,4 +126,4 @@
 
 <br/>
 
-<hr/>
+<hr/> -->
