@@ -69,15 +69,7 @@ Fun fact **I used to enjoy woodworking, powerlifting, and training in martial ar
 
 <br/>
 <hr/>
-<br/>
 
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chee86j&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub trophies" />
-</p>
-
-<br/>
 <!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
