@@ -111,18 +111,18 @@
 </div>
 
 <br/>
-
 <hr/>
-
-<br/>
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chee86j&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=15&row=2&column=4&v=2" alt="GitHub Profile Trophies" />
+    <img
+      src="https://github-profile-trophy-liard-delta.vercel.app/?username=chee86j&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=15&row=2&column=4"
+      alt="GitHub Profile Trophies"
+    />
   </a>
-</div>
+</p>
 
 <br/>
 
