@@ -110,7 +110,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,redux,javascript,typescript,cs,powershell,nextjs,py,flask,fastapi,prisma,sqlite,sequelize,less,postman,jest,openai" alt="Languages, frameworks, data layer, testing, and AI tools" />
 </div>
 
-<!-- <br/>
+<br/>
 <hr/>
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
@@ -118,7 +118,7 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://github-profile-trophy-sigma-one.vercel.app/?username=chee86j&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=15&row=2&column=4"
+      src="http://2.24.121.196/?username=chee86j&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=15&row=2&column=4"
       alt="GitHub Profile Trophies"
     />
   </a>
@@ -126,4 +126,4 @@
 
 <br/>
 
-<hr/> -->
+<hr/>
