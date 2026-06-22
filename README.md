@@ -1,7 +1,9 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=chee86j&label=Visitors&color=0e75b6&style=flat" alt="chee86j" /> </p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=chee86j&label=Visitors&color=0e75b6&style=flat" alt="chee86j" />
+</p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jeffrey+Chee!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jeffrey+Chee!;" alt="Typing SVG" />
 </h1>
 
 <h2 align="center">
@@ -9,73 +11,119 @@
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NYC%20Native-0077B5?style=flat&logo=location&logoColor=white" alt="NYC Native"/>
-  <img src="https://img.shields.io/badge/12+%20Yrs%20in%20Property%20Management-fff888?style=flat" alt="12+ Years in Property Management"/>
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-5646D2?style=flat&logo=developer&logoColor=white" alt="Full Stack Developer"/>
+  <img src="https://img.shields.io/badge/NYC%20Native-0077B5?style=flat&logo=location&logoColor=white" alt="NYC Native" />
+  <img src="https://img.shields.io/badge/12+%20Yrs%20in%20Property%20Management-fff888?style=flat" alt="12+ Years in Property Management" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-5646D2?style=flat&logo=developer&logoColor=white" alt="Full Stack Developer" />
 </p>
 
 <p align="center">
   <em>Blending over a decade of property management experience with cutting-edge tech skills.</em>
 </p>
 
-
 <br/>
-
 
 <div align="center">
-  
-I’m currently working on [Prop Pilot a REIT Management & Investment App](https://github.com/chee86j/prop_pilot)
 
-My current Interests are **LLMs using Ollama, integrating RAG pipelines with Vector Dbs such as Pinecone.io, Qdrant, ChromaDB, and PyVector. This setup allows me to experiment with semantic search, context-aware responses, and scalable knowledge retrieval. Deepening my understanding of the mathematical foundations behind machine learning, particularly Linear Algebra**
+  <p>
+    I’m currently working on
+    <a href="https://github.com/chee86j/prop_pilot">
+      <strong>Prop Pilot, a REIT Management & Investment App</strong>
+    </a>
+  </p>
 
-I’m looking to collaborate on **TS/JS/Python Projects**
+  <p>
+    My current interests are
+    <strong>
+      LLMs using Ollama, integrating RAG pipelines with vector databases such as Pinecone.io, Qdrant, ChromaDB, and pgvector.
+      This setup allows me to experiment with semantic search, context-aware responses, and scalable knowledge retrieval.
+      I am also deepening my understanding of the mathematical foundations behind machine learning, particularly Linear Algebra.
+    </strong>
+  </p>
 
-<br/>
+  <p>
+    I’m looking to collaborate on <strong>TS/JS/Python Projects</strong>
+  </p>
 
-All of my projects are available at Github or at my [Portfolio Site](https://jeffchee-port.onrender.com/)
-But here is my latest project [ClanCrest Site](https://clancrest-frontend-production.up.railway.app). Turn your family tree into a living story with photos, notes, and effortless sharing, whether you collaborate with relatives or keep it private. Its standout Path Inspector instantly traces how two people are connected and translates that relationship into culture-aware, multi-language kinship terms so everyone understands the connection at a glance.
+  <br/>
 
-Ask me about **AI, PostgreSQL, Express.js, React.js, Node.js, Next.js, Tailwind CSS**
+  <p>
+    All of my projects are available on GitHub or at my
+    <a href="https://jeffchee-port.onrender.com/">
+      <strong>Portfolio Site</strong>
+    </a>.
+  </p>
 
-View My Master CV [Resume](https://drive.google.com/uc?export=download&id=14UUNjWLHVk4dkfW5OhpAzaw8Gep7_7YC)
+  <p>
+    Here is my latest project:
+    <a href="https://clancrest-frontend-production.up.railway.app">
+      <strong>ClanCrest Site</strong>
+    </a>.
+    Turn your family tree into a living story with photos, notes, and effortless sharing, whether you collaborate with relatives or keep it private.
+    Its standout Path Inspector instantly traces how two people are connected and translates that relationship into culture-aware, multi-language kinship terms so everyone understands the connection at a glance.
+  </p>
 
-Fun fact **I used to enjoy woodworking, powerlifting, and training in martial arts. These days—as a new dad—I consider it a win if I get 15 uninterrupted minutes of exercise and remember where I left my coffee.**
+  <p>
+    Ask me about
+    <strong>AI, PostgreSQL, Express.js, React.js, Node.js, Next.js, Tailwind CSS</strong>
+  </p>
+
+  <p>
+    View My Master CV:
+    <a href="https://drive.google.com/uc?export=download&id=14UUNjWLHVk4dkfW5OhpAzaw8Gep7_7YC">
+      <strong>Resume</strong>
+    </a>
+  </p>
+
+  <p>
+    Fun fact:
+    <strong>
+      I used to enjoy woodworking, powerlifting, and training in martial arts.
+      These days—as a new dad—I consider it a win if I get 15 uninterrupted minutes of exercise and remember where I left my coffee.
+    </strong>
+  </p>
 
 </div>
 
 <div align="center"> 
   <a href="mailto:jeffreychee86@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/jeffchee86/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://jeffchee-port.onrender.com/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /> 
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-  <!-- Core stack, IDEs, DevOps, cloud -->
-  <img src="https://skillicons.dev/icons?i=postgres,express,react,nodejs,bootstrap,html,css,vscode,visualstudio,github,tailwind,git,npm,docker,selenium,dotnet,azure,stackoverflow" />
-  <!-- Languages, frameworks, data layer, testing, AI -->
-  <img src="https://skillicons.dev/icons?i=mongodb,redux,javascript,typescript,cs,powershell,nextjs,py,flask,fastapi,prisma,sqlite,sequelize,less,postman,jest,openai" /><br>
-</div>
-
-
-<br/>
-<hr/>
-
-<!--
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <img src="https://github.com/chee86j/chee86j/blob/main/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="GitHub Contribution Grid Snake"/>
-</div>
--->
 
 <hr/>
 
+<h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,express,react,nodejs,bootstrap,html,css,vscode,visualstudio,github,tailwind,git,npm,docker,selenium,dotnet,azure,stackoverflow" alt="Core stack, IDEs, DevOps, and cloud tools" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,redux,javascript,typescript,cs,powershell,nextjs,py,flask,fastapi,prisma,sqlite,sequelize,less,postman,jest,openai" alt="Languages, frameworks, data layer, testing, and AI tools" />
+</div>
+
+<br/>
+
+<hr/>
+
+<br/>
+
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=chee86j&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=15&row=2&column=4&v=2" alt="GitHub Profile Trophies" />
+  </a>
+</div>
+
+<br/>
+
+<hr/>
